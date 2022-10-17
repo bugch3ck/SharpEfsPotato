@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpEfsPotato", "SharpEfsPotato\SharpEfsPotato.csproj", "{AAB4D641-C310-4572-A9C2-6D12593AB28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB4D641-C310-4572-A9C2-6D12593AB28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB4D641-C310-4572-A9C2-6D12593AB28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB4D641-C310-4572-A9C2-6D12593AB28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB4D641-C310-4572-A9C2-6D12593AB28E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54E1CBA3-13EE-4501-9573-95F336A8F82E}
+	EndGlobalSection
+EndGlobal
